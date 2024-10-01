@@ -12,4 +12,4 @@ This project uses Amazon QuickSight to analyze and visualize Netflix data stored
 - Trends show consistent growth in certain genres over the years.
 
 ## Documentation:
-You can view the full project documentation, including all visualizations and analysis, in this [PDF](docs/AWS_QuickSight_Netflix_Analysis.pdf).
+You can view the full project documentation, including all visualizations and analysis, in this [PDF](FINAL-aws-analytics-quicksight.pdf).
