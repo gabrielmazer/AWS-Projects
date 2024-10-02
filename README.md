@@ -25,7 +25,7 @@ This project uses Amazon QuickSight to analyze and visualize Netflix data stored
 - Trends in certain genres show consistent growth over the years.
 
 **Preview of Visualizations**:
-![Netflix Data Visualization](1.%20Visualize%20data%20with%20Quicksight/Images/sample-visualization.png)
+![Netflix Data Visualization](https://github.com/gabrielmazer/AWS-Projects/blob/main/1.%20Visualize%20data%20with%20Quicksight/Images/full_data.jpg)
 
 ## Future Projects
 
