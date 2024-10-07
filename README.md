@@ -51,4 +51,4 @@ Stay tuned for more updates as I continue to explore AWS and build more projects
 
 ---
 
-_Last Updated: October 2023_
+_Last Updated: October 2024_
