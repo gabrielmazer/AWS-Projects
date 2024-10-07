@@ -27,12 +27,18 @@ This project uses Amazon QuickSight to analyze and visualize Netflix data stored
 **Preview of Visualizations**:
 ![Netflix Data Visualization](https://github.com/gabrielmazer/AWS-Projects/blob/main/1.%20Visualize%20data%20with%20Quicksight/Images/full_data.jpg)
 
-## Future Projects
+### 2. [Build a Chatbot with Amazon Lex using Lambda and CloudFormation](https://github.com/gabrielmazer/AWS-Projects/tree/main/2.%20Chatbot%20with%20Amazon%20Lex)
+This project involves creating a banking chatbot using Amazon Lex for natural language processing, AWS Lambda to handle backend logic, and CloudFormation to automate deployment. The chatbot helps users check their account balances, transfer funds between accounts, and confirm actions through conversational prompts. It also uses context tags for session management and leverages Lambda for dynamic balance responses.
 
-As I continue working on new AWS projects, I will add them to this repository. Below is a placeholder for future projects:
+#### Key Insights:
+- Integrated Amazon Lex for chatbot interaction, AWS Lambda for backend logic, and CloudFormation for automation.
+- Implemented dynamic slot values and context tags for session management, improving conversational flow.
+- IAdded confirmation prompts for secure fund transfers between accounts.
+- Utilized CloudFormation for quick bot re-deployment.
+- Fixed permissions issue between Amazon Lex and Lambda, enhancing the bot's functionality after troubleshooting.
 
-- **Project 2**: _(Project Title & Description Coming Soon)_
-- **Project 3**: _(Project Title & Description Coming Soon)_
+**Preview of Visualizations**:
+![Chatbot conversation test](https://github.com/gabrielmazer/AWS-Projects/blob/main/2.%20Chatbot%20with%20Amazon%20Lex/images/images%20-%20part%205/test_2.jpg)
 
 ## Learning Goals
 
