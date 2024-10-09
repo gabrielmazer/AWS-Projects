@@ -40,6 +40,18 @@ This project involves creating a banking chatbot using Amazon Lex for natural la
 **Preview of Visualizations**:
 ![Chatbot conversation test](https://github.com/gabrielmazer/AWS-Projects/blob/main/2.%20Chatbot%20with%20Amazon%20Lex/images/images%20-%20part%205/test_2.jpg)
 
+### 3. [AWS IAM and Cloud Security Project](https://github.com/gabrielmazer/AWS-Projects/tree/main/3.%20Cloud%20Security%20with%20AWS%20IAM)
+This project focused on using AWS IAM to secure EC2 instances by creating custom policies and managing user permissions. I configured IAM policies, users, and groups to control access based on environment-specific tags (production vs. development).
+
+#### Key Insights:
+- Created custom JSON IAM policies to control actions on EC2 instances based on tags.
+- Managed user groups to simplify permissions across multiple users.
+- Tested permissions by performing real actions and validating policies using the IAM Policy Simulator.
+- Successfully restricted access to production instances while allowing full control of development resources.
+
+**Preview of Visualizations**:
+![Policy Editor](https://github.com/gabrielmazer/AWS-Projects/blob/main/3.%20Cloud%20Security%20with%20AWS%20IAM/images/POLICY_EDITOR_2.jpg)
+
 ## Learning Goals
 
 My ultimate goal is to gain expertise in cloud computing, with a focus on:
