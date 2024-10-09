@@ -2,6 +2,9 @@
 
 In this project, I focused on using **AWS Identity and Access Management (IAM)** to secure AWS resources. My goal was to manage access to **EC2 instances** by configuring IAM policies, users, and user groups, ensuring proper permissions based on the environment (production vs development).
 
+## Documentation:
+You can view the full project documentation, including all visualizations and analysis, in this [PDF](https://gabrielmazer.github.io/AWS-Projects/IAM.pdf).
+
 ## What I Did
 
 - **Created IAM Policies**: I built custom JSON-based policies to control which actions can be performed on EC2 instances, depending on their tags (production or development).
