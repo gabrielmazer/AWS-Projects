@@ -44,6 +44,3 @@ I tested the configuration by launching an instance in the public subnet, confir
 
 ### What I Didn’t Expect
 One thing I didn’t expect was how detailed and interdependent the settings for route tables and network ACLs would be. Proper configuration required careful attention to make sure everything functioned as expected.
-
-### Time Spent
-This project took me approximately [insert time here] to complete.
