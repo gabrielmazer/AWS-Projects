@@ -52,7 +52,7 @@ This project focused on using AWS IAM to secure EC2 instances by creating custom
 **Preview of Visualizations**:
 ![Policy Editor](https://github.com/gabrielmazer/AWS-Projects/blob/main/3.%20Cloud%20Security%20with%20AWS%20IAM/images/POLICY_EDITOR_2.jpg)
 
-### 4. [Building a Virtual rivate Cloud](https://github.com/gabrielmazer/AWS-Projects/tree/main/4.%20Building%20a%20Virtual%20Private%20Cloud)
+### 4. [Building a Virtual Private Cloud](https://github.com/gabrielmazer/AWS-Projects/tree/main/4.%20Building%20a%20Virtual%20Private%20Cloud)
 In this project, I configured a Virtual Private Cloud (VPC) in AWS, where I set up subnets, route tables, internet gateways, and security layers using both Security Groups and Network ACLs. By the end of the project, I had successfully created a secure and functional VPC environment, with both public and private subnets and proper routing for internet-bound traffic. I also implemented network security best practices, ensuring that my resources are protected both at the instance and subnet levels.
 
 #### Key Insights:
