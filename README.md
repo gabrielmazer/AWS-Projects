@@ -52,6 +52,18 @@ This project focused on using AWS IAM to secure EC2 instances by creating custom
 **Preview of Visualizations**:
 ![Policy Editor](https://github.com/gabrielmazer/AWS-Projects/blob/main/3.%20Cloud%20Security%20with%20AWS%20IAM/images/POLICY_EDITOR_2.jpg)
 
+### 4. [Building a Virtual rivate Cloud](https://github.com/gabrielmazer/AWS-Projects/tree/main/4.%20Building%20a%20Virtual%20Private%20Cloud)
+In this project, I configured a Virtual Private Cloud (VPC) in AWS, where I set up subnets, route tables, internet gateways, and security layers using both Security Groups and Network ACLs. By the end of the project, I had successfully created a secure and functional VPC environment, with both public and private subnets and proper routing for internet-bound traffic. I also implemented network security best practices, ensuring that my resources are protected both at the instance and subnet levels.
+
+#### Key Insights:
+- VPC Isolation and Control: Setting up a custom VPC provided full control over the network, enabling me to define subnets, routing, and security policies that fit specific needs.
+- Subnet Configuration: Public and private subnets serve distinct purposes, where public subnets handle internet-facing resources, and private subnets ensure internal resources remain isolated.
+- Dual-layer Security: Using both Security Groups and Network ACLs added an extra layer of protection, securing individual instances and subnets against unauthorized traffic.
+- Routing Traffic: Configuring route tables was crucial to ensure proper traffic flow—especially when making the public subnet accessible through an internet gateway, while keeping the private subnet isolated from external access.
+
+**Preview of Visualizations**:
+![Policy Editor](https://github.com/gabrielmazer/AWS-Projects/blob/main/4.%20Building%20a%20Virtual%20Private%20Cloud/images/create_VPC_1.jpg)
+
 ## Learning Goals
 
 My ultimate goal is to gain expertise in cloud computing, with a focus on:
