@@ -1,7 +1,7 @@
 # AWS VPC Project
 
 ## Documentation:
-You can view the full project documentation, including all visualizations and analysis, in this [PDF](https://gabrielmazer.github.io/AWS-Projects).
+You can view the full project documentation, including all visualizations and analysis, in this [PDF](https://gabrielmazer.github.io/AWS-Projects/VPC.pdf).
 
 ## Overview
 In this project, I created and configured a Virtual Private Cloud (VPC) in AWS, set up subnets, route tables, internet gateways, and configured security groups and network ACLs to secure and manage my network.
